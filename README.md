@@ -4,4 +4,4 @@
 * :tongue: NLP Enthusiast   
 * :mortar_board: Somophore from Moscow   
 * :bulb: Open to collaborating on projects and innovative ideas.   
-* :computer: Currently working on Neural Machine Translation.   
+* :computer: Currently working on Neural Machine Translation tasks.   

@@ -4,4 +4,4 @@
 * :tongue: NLP Enthusiast.    
 * :mortar_board: Undergraduate student from Moscow.    
 * :bulb: Open to collaborating on projects and innovative ideas.   
-* :computer: Currently working with LLMs
+* :computer: Currently working with LLMs.  

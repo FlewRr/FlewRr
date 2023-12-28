@@ -1,4 +1,4 @@
-## Welcome here! I am Rafiz:   
+## Hi! I am Rafiz:   
 
   
 * :tongue: NLP Enthusiast  
